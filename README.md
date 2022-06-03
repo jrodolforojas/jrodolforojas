@@ -8,7 +8,7 @@ Software engineer with **+1** year of experience that can understand the clientâ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Rodolfo_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jrodolforojas)
 [![Twitter](https://img.shields.io/badge/Twitter-@jrodolforojas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jrodolforojas)
 [![Instagram](https://img.shields.io/badge/Instagram-@jrodolforojas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jrodolforojas)
-[![Facebook](https://img.shields.io/badge/Facebook-@jrodolforojas1-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/jrodolforojas1)
+[![Facebook](https://img.shields.io/badge/Facebook-@jrodolforojas1-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/jrodolforojasg)
 [![Web](https://img.shields.io/badge/jrodolforojas.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jrodolforojas.com)
 
 ## Skills
