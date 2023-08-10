@@ -2,7 +2,7 @@
 Software Engineer from Costa Rica 🇨🇷 
 
 ## Who am I?
-Software engineer with **+1** year of experience that can understand the client’s problems and bring solutions with code.
+Software engineer with **+2** year of experience that can understand the client’s problems and bring solutions with code.
 ## Contact me!
 [![Email](https://img.shields.io/badge/mail-jrodolforojas1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jrodolforojas1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Rodolfo_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jrodolforojas)
